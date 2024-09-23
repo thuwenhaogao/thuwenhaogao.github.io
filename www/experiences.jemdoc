@@ -4,49 +4,30 @@
 
 == Research Experience
 
-*Integrated Planning of Multi-Charging Facilities (MTCF) and Urban
-Distribution Network*, 2022.9-2024.7
+*Study of Electric Vehicle Driving Routes and Charging Infrastructure Planning in Northern China*, 2022.9-Present
 
-National Natural Science Foundation of China (52007123)
+- *Research Content*: Simulation of electric vehicle driving routes in northern cities of China and study of charging infrastructure layout optimization
 
-- Carried out literature review on EV charging stations planning in urban distribution network.
-- Proposed a two-step equivalence relaxation approach for MTCF.
-- Proposed a dynamic traffic network model for autopilot EVs.
-- Proposed a stochastic planning model for urban distribution network based on spatio-temporal uncertainty of EVs.
-- Calculated and compared the costs of results in different case setting and anticipated congested traffic hubs.
+- *Research Methodology*: This study combines web crawling, intelligent optimization algorithms, Baidu Maps' real-time heat maps, and population density data to model electric vehicle routes, optimal charging infrastructure numbers and locations, and charging queue times in Northern China's cities in the predicted situation in 2030. The study seeks to balance the tradeoff between operating costs and user costs to optimize charging infrastructure layout for enhanced coverage and usage. It considers factors such as reduced battery efficiency and lower electric driving range during Northern winters. Data analysis and visualization are facilitated by ArcGIS.
 
-*Joint Planning of Active Distribution Network (ADN) and EV Charging
-Stations (EVCS)*, 2021.9-2022.8
+- *Tentative Conclusion*: Under the forecasted market conditions, the optimized charging facility site selection planning, achieved through the improved particle swarm optimization algorithm, meets the market's saturation demand. The number and layout of charging stations tend to stabilize, demonstrating robustness.
 
-National Natural Science Foundation of China (52007123)
+*Cost of Charging Electric Vehicles in a City*, 2021.9-2022.8
 
-- Constructed a comprehensive model for ADN and EVCS considering vehicle-to-grid and reactive power support.
-- Transformed the holistic problem (large-scale MISOCP) into two sub-problems (MILP and MISOCP), to improve
-solution efficiency.
-- Modelled multiple distributed generation resources (DGRs), including energy storage systems, photovoltaic, capac-
-itor banks, static var compensation, and on-load tap changer.
-- Analyzed the planning results of reactive power support of EVs and multiple DGRs in detail.
+- *Research Content*: Simulation of vehicles driving routes in a city, analysis of electric vehicle operating costs
 
-*Simulation Analysis of Transient Thermal Effect of Ground Wire-suspension Clamp System*, 2019.9-2020.6
+- *Research Methodology*: A questionnaire survey was distributed to 200 households to classify different driving patterns by combining different household compositions and actual conditions, and the shortest route planning was obtained to simulate real driving routes using the Gaode Open Platform route planning API. The parameters such as daily driving mileage and average speed of each section of road under different driving patterns were counted, and the charging algorithm was optimized based on different types of charging piles and electricity calculation rules such as peak and valley tariffs and step tariffs. The lowest annual and monthly operating costs of electric vehicles were studied and compared with traditional gasoline vehicles.
 
-National Natural Science Foundation of China (51977083)
+- *Tentative Conclusion*: Different charging habits have a greater impact on the operating costs of electric vehicles, whose average operating costs are lower than those of gasoline vehicles, but the overall costs also need to take into account depreciation prices and other comprehensive factors.
 
-- Build three-dimensional electromagnetic thermal coupling simulation model of ground wire-suspension clamp system wound by aluminium armour tape.
-- Calculated and analyzed the current density distribution and temperature distribution of the ground wire-suspension clamp system under the action of power frequency short-circuit current.
-- Analyzed the effects of different bolt torques on the temperature of heating bottleneck point of the ground wire.
+*Research on electromagnetic analysis and control strategy based on novel permanent magnet miniature linear motor*, 2019.9-2020.6
 
-== Leadership Experience
-*Tsinghua University Student Union*, 2022.3-2022.12
-- Member, Practice Department
+- Study of a miniaturized position detection system for a new permanent magnet miniature linear motor: reveal various losses in the motor and perform high precision detection of motor rotor position based on different TMR sensor layouts.
 
-*Tsinghua Shenzhen International Graduate School*, 2021.10-2022.8
-- Monitor, Electrical Engineering Class 21 
+- Propose a novel permanent magnet miniature linear motor optimized closed-loop control strategy with high dynamic performance：A MEMS (microelectromechanical system) linear motor maximum thrust current ratio control system with friction observer is designed and the control system is simulated using MATLAB Simulink to demonstrate the effectiveness of the proposed algorithm.
 
-*South China University of Technology Student Union*, 2018.5-2019.7
-- Secretary, Department of Manpower and Liaison
+*Numerical simulation study of high-voltage high-power electronic devices*, 2019.9-2020.6
 
-*Student Innovation and Entrepreneurship Club of SCUT*, 2018.3-2018.8
-- Member, Outreach Practice Department
+- A new structure of high-voltage SBD device with buried buffer doping layer is proposed: By re-optimizing the shape of the longitudinal electric field distribution in the drift region, the reverse leakage current and forward turn-on voltage drop is significantly reduced while keeping the reverse breakdown point in Schottky barrier region.
 
-*Art Group of SCUT*, 2017.7-2019.6
-- Leader, Host Team
+- A Novel Trench MOS TMBS Contact SBR is proposed: its meta-packet sequence part can obtain better electrical performance and thermal stability. The top channel can obtain better forward surge reliability and reduce on-resistance.
