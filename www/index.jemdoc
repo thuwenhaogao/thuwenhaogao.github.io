@@ -1,6 +1,25 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Wenhao Gao
 
+{{  
+    <div style="height: 30px"></div>
+    <div style='position: absolute; top: 15px; left: 700px'>
+    <a href="\#">
+        <img src="pic/THU.jpg" height="60"></img>
+    </a>
+    </div>
+    <div style='position: absolute; top: 15px; left: 775px'>
+    <a href="\#">
+        <img src="pic/NUS.jpg" height="60"></img>
+    </a>
+    </div>
+    <div style='position: absolute; top: 15px; left: 850px'>
+    <a href="\#">
+        <img src="pic/CQU.pdf" height="60"></img>
+    </a>
+    </div>
+}}
+
 ~~~
 {}{img_left}{pic/wyh.jpg}{alt text}{WIDTHpx}{200px}{IMGLINKTARGET}
 
