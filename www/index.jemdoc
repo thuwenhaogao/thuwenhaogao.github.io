@@ -1,6 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, showsource
 = Wenhao Gao
-
 {{  
     <div style="height: 30px"></div>
     <div style='position: absolute; top: 15px; left: 700px'>
@@ -10,12 +9,12 @@
     </div>
     <div style='position: absolute; top: 15px; left: 775px'>
     <a href="\#">
-        <img src="pic/NUS.pdf" height="60"></img>
+        <img src="pic/NUS.png" height="60"></img>
     </a>
     </div>
     <div style='position: absolute; top: 15px; left: 850px'>
     <a href="\#">
-        <img src="pic/CQU.pdf" height="60"></img>
+        <img src="pic/CQU.jpg" height="60"></img>
     </a>
     </div>
 }}
@@ -33,7 +32,6 @@ Tsinghua University
 \[[static/YonghengWang_CV.pdf Resume]\]
 
 ~~~
-
 
 == Research Interests
 My research group and I concentrate on optimization for power systems, including following topics:
